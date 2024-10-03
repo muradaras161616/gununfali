@@ -1,10 +1,12 @@
 # gununfali
-
-
 günün falı uygulaması flutter dart örneği
+
+
+
 ![Screenshot_2](https://github.com/user-attachments/assets/6a25990c-48c3-4f74-959f-a33afe4beb12)
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
